@@ -87,7 +87,8 @@ input {
 .membersListe {
    display: flex;
    align-items: center;
-   justify-content: center;
+   justify-content: flex-start;
+   margin-left: 50px;
 }
 .membersListe p {
   margin: 5px 0;
